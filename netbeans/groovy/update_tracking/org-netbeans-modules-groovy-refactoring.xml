@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.groovy.refactoring">
+    <module_version install_time="1475191548913" last="true" origin="installer" specification_version="1.34.1">
+        <file crc="4247163430" name="config/Modules/org-netbeans-modules-groovy-refactoring.xml"/>
+        <file crc="3896947299" name="modules/locale/org-netbeans-modules-groovy-refactoring_ja.jar"/>
+        <file crc="2805889465" name="modules/locale/org-netbeans-modules-groovy-refactoring_pt_BR.jar"/>
+        <file crc="2184631700" name="modules/locale/org-netbeans-modules-groovy-refactoring_ru.jar"/>
+        <file crc="3459636270" name="modules/locale/org-netbeans-modules-groovy-refactoring_zh_CN.jar"/>
+        <file crc="4217325211" name="modules/org-netbeans-modules-groovy-refactoring.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.spellchecker.bindings.php">
+    <module_version install_time="1475191948490" last="true" origin="installer" specification_version="0.1.1">
+        <file crc="235442405" name="config/Modules/org-netbeans-modules-spellchecker-bindings-php.xml"/>
+        <file crc="1644915816" name="modules/locale/org-netbeans-modules-spellchecker-bindings-php_ja.jar"/>
+        <file crc="1386972514" name="modules/locale/org-netbeans-modules-spellchecker-bindings-php_pt_BR.jar"/>
+        <file crc="2361018910" name="modules/locale/org-netbeans-modules-spellchecker-bindings-php_ru.jar"/>
+        <file crc="3295960922" name="modules/locale/org-netbeans-modules-spellchecker-bindings-php_zh_CN.jar"/>
+        <file crc="3098598971" name="modules/org-netbeans-modules-spellchecker-bindings-php.jar"/>
+    </module_version>
+</module>

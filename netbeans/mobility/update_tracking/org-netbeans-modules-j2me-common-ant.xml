@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2me.common.ant">
+    <module_version install_time="1475191888168" last="true" origin="installer" specification_version="1.7.1">
+        <file crc="3157705866" name="config/Modules/org-netbeans-modules-j2me-common-ant.xml"/>
+        <file crc="2607826572" name="modules/locale/org-netbeans-modules-j2me-common-ant_ja.jar"/>
+        <file crc="2239342416" name="modules/locale/org-netbeans-modules-j2me-common-ant_pt_BR.jar"/>
+        <file crc="4147060648" name="modules/locale/org-netbeans-modules-j2me-common-ant_ru.jar"/>
+        <file crc="3760491930" name="modules/locale/org-netbeans-modules-j2me-common-ant_zh_CN.jar"/>
+        <file crc="2173477770" name="modules/org-netbeans-modules-j2me-common-ant.jar"/>
+    </module_version>
+</module>

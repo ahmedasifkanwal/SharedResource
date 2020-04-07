@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.mobility.project.ant">
+    <module_version install_time="1475191895675" last="true" origin="installer" specification_version="1.26.1">
+        <file crc="3782214510" name="ant/nblib/locale/org-netbeans-modules-mobility-project-ant_ja.jar"/>
+        <file crc="3232157600" name="ant/nblib/locale/org-netbeans-modules-mobility-project-ant_pt_BR.jar"/>
+        <file crc="2189734965" name="ant/nblib/locale/org-netbeans-modules-mobility-project-ant_ru.jar"/>
+        <file crc="2475028010" name="ant/nblib/locale/org-netbeans-modules-mobility-project-ant_zh_CN.jar"/>
+        <file crc="1869686798" name="ant/nblib/org-netbeans-modules-mobility-project-ant.jar"/>
+        <file crc="3944156065" name="config/Modules/org-netbeans-modules-mobility-project-ant.xml"/>
+        <file crc="749899993" name="modules/locale/org-netbeans-modules-mobility-project-ant_ja.jar"/>
+        <file crc="3315859983" name="modules/locale/org-netbeans-modules-mobility-project-ant_pt_BR.jar"/>
+        <file crc="2476859938" name="modules/locale/org-netbeans-modules-mobility-project-ant_ru.jar"/>
+        <file crc="3428223173" name="modules/locale/org-netbeans-modules-mobility-project-ant_zh_CN.jar"/>
+        <file crc="2874188742" name="modules/org-netbeans-modules-mobility-project-ant.jar"/>
+    </module_version>
+</module>
